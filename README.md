@@ -41,7 +41,7 @@ to your current working directory and unzip directly under the dir.
 
 2. copy the "plot*.R" and "DataSource.R" files to the working directory.
 
-3. run each "plot*.R" to generate each plot*.png under the same directory.
+3. run each "plot*.R" file to generate each plot*.png under the same directory.
 
 
 ## Making Plots
